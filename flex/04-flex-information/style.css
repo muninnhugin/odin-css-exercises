@@ -24,3 +24,28 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+.header {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 32px;
+}
+
+
+.plants {
+  display: flex;
+  justify-content: center;
+  gap: 52px;
+}
+
+.plant {
+  display: flex;
+  flex-wrap: wrap;
+  flex-basis: 200px;
+  justify-content: center;
+}
+
+.text {
+  text-align: center;
+}
